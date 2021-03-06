@@ -10,4 +10,4 @@ A to Z for C# in Visual Studio Code
 7. Or Install Code Runner Extension
 8. Goto Settings and Enable Run in Terminal. 
 9. Then open setting.json file and type "code-runner.executorMap" and open it
-10. Exchane csharp run style to  "cd $dir && dotnet run $fileName" and save it 
+10. Change csharp run style to  "cd $dir && dotnet run $fileName" and save it 
