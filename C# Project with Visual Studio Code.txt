@@ -1,0 +1,13 @@
+A to Z for C# in Visual Studio Code
+====================================
+
+1. Goto :  https://bit.ly/dotnetcoresdk_techdecode , Download and Install Dotnet Core SDK
+2. Download and Install Visual Studio Code
+3. Create a folder for c# Project
+4. Open Command Prompt and type "dotnet new console"
+5. Open Visual Studio with this Project Folder
+6. To run a file open VS Code Terminal and type "dotnet run"
+7. Or Install Code Runner Extension
+8. Goto Settings and Enable Run in Terminal. 
+9. Then open setting.json file and type "code-runner.executorMap" and open it
+10. Exchane csharp run style to  "cd $dir && dotnet run $fileName" and save it 
