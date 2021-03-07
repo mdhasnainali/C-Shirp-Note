@@ -17,7 +17,9 @@ There are various implementations of .NET. Each implementation allows .NET code 
 
 ### The two major components of .NET Framework are the Common Language Runtime and the .NET Framework Class Library.
 
-
+<p align="center">
+  <img src="https://github.com/mdhasnainali/C-Shirp-Note/blob/master/Images/C%23.PNG">
+</p>
 
 * The Common Language Runtime (CLR) is the execution engine that handles running applications. It provides services like thread management, garbage collection, type-safety, exception handling, and more.
 * The Class Library provides a set of APIs and types for common functionality. It provides types for strings, dates, numbers, etc. The Class Library includes APIs for reading and writing files, connecting to databases, drawing, and more.
