@@ -9,9 +9,8 @@ There are various implementations of .NET. Each implementation allows .NET code 
 3. Xamarin/Mono is a .NET implementation for running apps on all the major mobile operating systems, including iOS and Android.
 
 .NET Standard is a formal specification of the APIs that are common across .NET implementations. This allows the same code and libraries to run on different implementations.
-<br/>
 
----
+<br>
 
 # Architecture of .NET Framework
 
@@ -30,3 +29,8 @@ There are various implementations of .NET. Each implementation allows .NET code 
 When an app runs, the CLR takes the assembly and uses a just-in-time compiler (JIT) to turn it into machine code that can execute on the specific architecture of the computer it is running on.
 
 <br/>
+
+---
+
+### Source:
+1. [Microsoft](https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet-framework)
