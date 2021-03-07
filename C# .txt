@@ -1,0 +1,9 @@
+In the VS Code menu, go into File / Preferences / Settings.
+
+In the "Search settings" window, type omnisharp.path
+
+Click on "Edit in settings.json" link.
+
+Add (or edit) like this: "omnisharp.path": "latest"
+
+(from: https://github.com/OmniSharp/omnisharp-vscode/issues/2965)
