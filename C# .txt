@@ -8,4 +8,3 @@ Add (or edit) like this: "omnisharp.path": "latest"
 
 (from: https://github.com/OmniSharp/omnisharp-vscode/issues/2965)
 
-G
